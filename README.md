@@ -207,6 +207,38 @@ https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/tok
 
 
 
+/test/token/ERC721/
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/test/token/ERC721/ERC721.test.js
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/test/token/ERC721/ERC721.behavior.js
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/test/token/ERC721/ERC721Enumerable.test.js
+
+
+
+
+
+/test/token/ERC20/
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/test/token/ERC20/ERC20.test.js
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/test/token/ERC20/ERC20.behavior.js
+
+
+
+
+
+/test/token/ERC1155/
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/test/token/ERC1155/ERC1155.test.js
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/test/token/ERC1155/ERC1155.behavior.js
+
+
+
+
+
 
 
 
@@ -262,6 +294,23 @@ https://docs.metamask.io/guide/mobile-best-practices.html#the-provider-window-et
 
 
 
+
+
+## INFURA
+
+##### The world’s most powerful blockchain development suite. Our suite of high availability APIs and Developer Tools provide quick, reliable access to the Ethereum and IPFS networks so you can focus on building and scaling next generation software.
+
+https://infura.io/
+
+https://blog.infura.io/350000-developers-on-infura/?utm_source=homepage&utm_medium=banner&utm_campaign=350k
+
+
+
+
+## OpenSea
+##### Discover, collect, and sell extraordinary NFTs. OpenSea is the world's first and largest NFT marketplace.
+
+https://opensea.io/
 
 
 
