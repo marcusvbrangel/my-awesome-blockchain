@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="right">
   <img src="163831590953.png" width="150" alt="Certified Blockchain Council Member">
   <img src="163831594055.png" width="150" alt="Certified Blockchain Expert">
 </p>
