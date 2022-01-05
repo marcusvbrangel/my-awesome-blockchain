@@ -44,8 +44,7 @@ https://docs.ethers.io/v5/
 
 
 ## IPFS
-##### IPFS powers the Distributed Web. A peer-to-peer hypermedia protocol. Designed to preserve and grow humanity's knowledge
-by making the web upgradeable, resilient, and more open.
+##### IPFS powers the Distributed Web. A peer-to-peer hypermedia protocol. Designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
 
 https://ipfs.io/
 
@@ -97,6 +96,33 @@ https://trufflesuite.com/index.html
 https://trufflesuite.com/docs/truffle/getting-started/interacting-with-your-contracts.html
 
 https://trufflesuite.com/docs/truffle/getting-started/using-truffle-develop-and-the-console.html
+
+
+
+
+## MetaMask
+##### A crypto wallet & gateway to blockchain apps. MetaMask provides the simplest yet most secure way to connect to blockchain-based applications. You are always in control when interacting on the new decentralized web.
+
+https://metamask.io/
+
+https://docs.metamask.io/guide/ethereum-provider.html#legacy-methods
+
+https://docs.metamask.io/guide/rpc-api.html#mobile-specific-rpc-methods
+
+https://docs.metamask.io/guide/signing-data.html#sign-typed-data-v1
+
+https://docs.metamask.io/guide/registering-function-names.html#verify
+
+https://docs.metamask.io/guide/registering-your-token.html#example
+
+https://docs.metamask.io/guide/defining-your-icon.html
+
+https://docs.metamask.io/guide/onboarding-library.html#examples
+
+https://docs.metamask.io/guide/mobile-best-practices.html#the-provider-window-ethereum
+
+
+
 
 
 
