@@ -1,3 +1,7 @@
+
+![GitHub Logo](/images/github-logo.png)
+
+
 # My Awesome Blockchain
 My Awesome Blockchain
 
