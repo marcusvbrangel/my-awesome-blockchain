@@ -1,5 +1,8 @@
 
-![GitHub Logo](/images/github-logo.png)
+<p align="center">
+  <img src="163831590953.png" width="350" alt="Certified Blockchain Council Member">
+  <img src="163831594055.png" width="350" alt="Certified Blockchain Expert">
+</p>
 
 
 # My Awesome Blockchain
