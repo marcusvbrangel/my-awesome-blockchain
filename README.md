@@ -379,6 +379,28 @@ https://consensys.net/
 
 
 
+## Solidity
+##### Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
+
+https://docs.soliditylang.org/en/v0.8.11/index.html
+
+
+
+
+
+
+
+## Brownie
+##### Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+This project relies heavily upon web3.py and the documentation assumes a basic familiarity with it. You may wish to view the Web3.py docs if you have not used it previously.
+
+https://eth-brownie.readthedocs.io/en/stable/
+
+https://web3py.readthedocs.io/en/stable/index.html
+
+https://github.com/eth-brownie/brownie
+
+https://eth-brownie.readthedocs.io/en/stable/gui.html
 
 
 
